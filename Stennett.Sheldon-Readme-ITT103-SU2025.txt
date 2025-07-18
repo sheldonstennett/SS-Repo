@@ -1,0 +1,75 @@
+Hospital Management System
+
+
+
+Authors: Sheldon Stennett
+
+Date Created: JULY 16 2025
+
+Course: ITT103
+
+GitHub Public URL to Code: 
+
+
+
+
+Program Functions or Purpose:
+
+
+Register a new patient with details such as name, age, and gender.
+
+Assign a unique auto-generated patient ID and doctor ID.
+
+Viewing patient details
+
+
+
+Add a new doctor (name, specialty, and available schedule).
+
+View doctor profiles and availability.
+
+
+
+Book appointments between patients and doctors.
+
+Display confirmation message with appointment ID.
+
+Cancel or view scheduled appointments.
+
+
+
+Generate a bill at the end of an appointment, including:
+
+Consultation fee (JMD$ 3000)
+
+Service fees for prescribed medications and diagnostic tests ( tests, medication),
+
+Printing total bill for patient.
+
+
+
+How to run it:
+
+Double click on PY file.
+
+
+
+Required modifications or improvements:
+
+1. Adding a report option to generate all appointments for the day, week and month.
+2. along with appointment for each doctor registered in system.
+3. Display of number of patients in system.
+4. Needs an appointment complete method in appointment class.
+5. Needs additional error validations in booking appointment option to ensure doctor ID and patient ID can be located in system, then returns the user to the enter patient ID or doctor ID option. 
+  
+
+
+
+
+
+
+
+
+
+
+
